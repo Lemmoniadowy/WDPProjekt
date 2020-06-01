@@ -1,2 +1,2 @@
 # WDPProjekt
-Projekt programu zaliczeniowego z przedmioty "Wprowadzenie do Programowania" lato 2019/2020 
+Projekt programu zaliczeniowego z przedmiotu "Wprowadzenie do Programowania" lato 2019/2020 
